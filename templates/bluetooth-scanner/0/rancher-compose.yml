@@ -1,6 +1,5 @@
 .catalog:
   name: "Bluetooth-Scanner"
   description: "Scans for Bluetooth 4.0 Low Energy Devices & Bluetooth 2.4 Devices"
-  uuid: Bluetooth-Scanner-0  
-Bluetooth-Scanner:
-  scale: 1
+  version: 1
+
