@@ -11,5 +11,5 @@ Bluetooth-Scanner:
     SEED: ${SEED}
     WORLD: ${WORLD}
   tty: true
-  image: index.docker.io/btedge1/btedge:btscan
+  image: rancher/load-balancer-service
   stdin_open: true
