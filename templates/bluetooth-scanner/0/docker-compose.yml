@@ -1,3 +1,4 @@
 Bluetooth-Scanner:
   image: index.docker.io/btedge1/btedge:btscan
+  net: host
   command: ./bluetoothscan
