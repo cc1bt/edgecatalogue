@@ -1,0 +1,14 @@
+.catalog:
+  name: "Bluetooth Scanner"
+  version: "1"
+  description: "Scans for Bluetooth 4.0 Low Energy and Bluetooth 2.4 Devices"
+  uuid: btscanner
+  questions:
+    -variable: "VERSION"
+    label: "Version"
+    description: "Specify a version"
+    type: "string"
+    default: "latest"
+    required: "true"
+bluetooth-scanner:
+  scale: 1

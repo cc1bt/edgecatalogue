@@ -1,0 +1,5 @@
+name: Bluetooth-Scanner
+description: Application which scans for Bluetooth 4.0 and 2.4 devices
+version: 1
+category: other 
+maintainer: Claudia Cristina <claudia.cristina@bt.com>
