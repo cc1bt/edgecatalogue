@@ -11,5 +11,5 @@ Bluetooth-Scanner:
     SEED: ${SEED}
     WORLD: ${WORLD}
   tty: true
-  image: rancher/load-balancer-service
+  image: itzg/minecraft-server
   stdin_open: true
