@@ -1,2 +1,15 @@
-bluetooth-scanner:
+Bluetooth-Scanner:
+  environment:
+    EULA: ${EULA}
+    VERSION: ${VERSION}
+    DIFFICULTY: ${DIFFICULTY}
+    MODE: ${MODE}
+    PVP: ${PVP}
+    WHITELIST: ${WHITELIST}
+    OPS: ${OPS}
+    MOTD: ${MOTD}
+    SEED: ${SEED}
+    WORLD: ${WORLD}
+  tty: true
   image: index.docker.io/btedge1/btedge:btscan
+  stdin_open: true
