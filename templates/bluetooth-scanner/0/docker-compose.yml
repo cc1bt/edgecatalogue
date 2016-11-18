@@ -1,2 +1,2 @@
 bluetooth-scanner:
-  image: btedge1/btedge:btscan
+  image: index.docker.io/btedge1/btedge:btscan
