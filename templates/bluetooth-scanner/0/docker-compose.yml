@@ -1,2 +1,2 @@
 Bluetooth-Scanner:
-  image: itzg/minecraft-server
+  image: index.docker.io/btedge1/btedge
